@@ -6,7 +6,7 @@ Intro: Crypto Price Tracker Documentation
 
 ## Project Setup
 
-1.  **Clone the repository:** `git clone <repository_url>`
+1.  **Clone the repository:** `git clone <https://github.com/kballout/crypto-price-tracker.git>`
 2.  **Navigate to the project directory:** `cd crypto-price-tracker`
 3.  **Install dependencies:** `npm install` (for Next.js) and `npx create-docusaurus@latest website classic` (for Docusaurus in a seperate directory)
 4.  **Run the Next.js app:** `npm run dev`
